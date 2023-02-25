@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**orabi55555/orabi55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me:
+- I’m currently enrolled in the 9-month iti internship.
+-Open source division.
+- I’m currently learning javascript,mongodb,html,css.
+-currently working on a javascript/html/css project.
+-I love SQL regrardless of it being mysql or nosql.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🛠 Tech Stack:
+
+
+  - HTML5 | CSS3 | JavaScript | PHP | Bootstrap | SEO
+   -MySQL | MongoDB | NOSQL
+   -Git | Visual Studio code
+   -video editing.
+
+
+
+🎓 Graduated:
+  graduated from the faculty of science, software and multimedia division with accumulated GPA 3.09.
+         
+  
+  
