@@ -23,6 +23,8 @@ About me:
 
 🎓 Graduated:
   graduated from the faculty of science, software and multimedia division with accumulated GPA 3.09.
-         
+
+contact me:
+elorabiahmed843@gmail.com
   
   
